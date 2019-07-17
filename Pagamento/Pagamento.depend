@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1563250070 source:c:\users\redev\documents\atividadeslp1\pagamento\main.cpp
+	<iostream>
+	"ControlePagamento.h"
+	"Pagamento.h"
+
+1563249213 source:c:\users\redev\documents\atividadeslp1\pagamento\src\pagamento.cpp
+	"Pagamento.h"
+	<iostream>
+
+1563250399 c:\users\redev\documents\atividadeslp1\pagamento\include\pagamento.h
+	<iostream>
+
+1563250572 source:c:\users\redev\documents\atividadeslp1\pagamento\src\controlepagamento.cpp
+	"ControlePagamento.h"
+	"Pagamento.h"
+	<iostream>
+	<stdio.h>
+
+1563250123 c:\users\redev\documents\atividadeslp1\pagamento\include\controlepagamento.h
+	"Pagamento.h"
+	<iostream>
+
