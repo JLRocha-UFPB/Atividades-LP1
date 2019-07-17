@@ -1,0 +1,18 @@
+A) Classes :É um modelo ou protótipo do qual os objetos podem ser criados apartir
+da vontade do programador,sendo assim um tipo definido pelo programador;
+Objetos: é um parte ou instância da classe onde nela tem metodos e atributos
+da classe criada;
+
+
+Diferença >> Classse é basicamente um tipo definido pelo programador,
+já os objetos são instâncias dessa classe que se moldam de acordo os metodos;
+
+
+B)Construtor :São funções especiais chamadas pelo sistema no momento em que criamos um objeto;
+Tem por objetivo inicializar os objetos de forma sequencial ou organizada;
+sendo necessários quando por exemplo, o programador ou esquece de inicializar os objetos
+ou então inicializa mais de uma vez;
+
+C)Encapsulamento: É um forma de restringir um acesso as declarações de uma classe, tais como
+objetos e metodos.os níveis de encapsulamento são divididos em Public,Protect e Private,
+sendo geralmente o público mais ultilizado para metodos da classe e o private para objetos da classe;

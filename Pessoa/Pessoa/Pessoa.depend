@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1563124781 source:/home/joao/Documents/AtividadesLp1/Pessoa/Pessoa/main.cpp
+	<iostream>
+	"Pessoa.h"
+
+1563124836 source:/home/joao/Documents/AtividadesLp1/Pessoa/Pessoa/src/Pessoa.cpp
+	"Pessoa.h"
+	<iostream>
+
+1563124796 /home/joao/Documents/AtividadesLp1/Pessoa/Pessoa/include/Pessoa.h
+	<iostream>
+

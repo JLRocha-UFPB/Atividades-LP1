@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1563329724 source:/home/joao/Documents/AtividadesLp1/Horario/Horario/main.cpp
+	<iostream>
+	"Horario.h"
+
+1563329700 source:/home/joao/Documents/AtividadesLp1/Horario/Horario/src/Horario.cpp
+	"Horario.h"
+	<iostream>
+
+1563327334 /home/joao/Documents/AtividadesLp1/Horario/Horario/include/Horario.h
+	<iostream>
+

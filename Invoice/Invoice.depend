@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1563233174 source:/home/joao/Documents/AtividadesLp1/Invoice/main.cpp
+	<iostream>
+
+1563233435 source:/home/joao/Documents/AtividadesLp1/Invoice/src/Invoice.cpp
+	"Invoice.h"
+
+1563233993 /home/joao/Documents/AtividadesLp1/Invoice/include/Invoice.h
+	<iostream>
+
